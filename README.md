@@ -1,12 +1,33 @@
-# React + Vite
+# FOREXSITE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and professional landing page for a Forex-related website, built with **Next.js** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## Live Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo here: [FOREXSITE Live](https://forextride.vercel.app/)
 
-## Expanding the ESLint configuration
+## Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+FOREXSITE is designed with a clean, responsive, and visually appealing layout that provides users with a smooth browsing experience. Key sections include:
+
+- **Hero Section:** Engaging introduction with clear CTA buttons.
+- **Features Section:** Highlights the main services and benefits.
+- **Pricing Section:** Clean and easy-to-read pricing tiers.
+- **Testimonials:** Builds credibility with customer feedback.
+- **Logo Carousel & CTA:** Professional branding and conversion-focused elements.
+
+The website is fully responsive, optimized for fast loading, and uses modern UI/UX principles for a polished appearance.
+
+## Technologies Used
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML5 & CSS3
+- JavaScript (ES6+)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Div-Abdullah/Forextride.git
